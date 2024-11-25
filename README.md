@@ -9,7 +9,7 @@ It is ideal for building and testing Deep-learning models aimed at detecting bre
 The dataset was augmented using techniques such as horizontal and vertical flips, rotations, and the application of random black rectangles on the images.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6011be5-fcea-40e6-8a32-dfd724cae72a" alt="Description de l'image">
+  <img src="https://github.com/user-attachments/assets/209642a0-1709-4429-a02d-b57f1dc24405" alt="Description de l'image">
   <br>
   <em>4 mammogram images after augmentation, with their labels (1 positive, 0 negative)</em>
 </p>
@@ -26,12 +26,12 @@ I used transfer learning on the following CNN architectures : ResNet50, ResNet10
 
 ## Metrics and evaluation
 
-My final model achieved an **accuracy of 69%** on the test dataset, with a **recall of 67%** and a **precision of 59%** for the positive class. These results are promising, considering the limited amount of data and the class imbalance in the dataset.
+My final model achieved an **accuracy of 71%** on the test dataset, with a **recall of 66%**,  a **precision of 61%** and a **f1 score of 64%** for the positive class. These results are promising, considering the limited amount of data and the class imbalance in the dataset.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6adacd9-c160-4359-bf7a-b5d1b7f7fa1e" alt="Description de l'image">
+  <img src="https://github.com/user-attachments/assets/46eab4fd-3088-48c9-97a6-d279cd233c61" alt="Description de l'image">
   <br>
-  <em>Some predictions on the test dataset (80% accuracy here)</em>
+  <em>Some predictions on the test dataset (83% accuracy here)</em>
 </p>
 
 ## Moving forward
