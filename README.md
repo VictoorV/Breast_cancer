@@ -21,7 +21,7 @@ I used transfer learning on the following CNN architectures : ResNet50, ResNet10
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5665943-458b-425c-a288-8dc24b7a0343" alt="Description de l'image">
   <br>
-  <em>Binary classification using CNN (C-H-W)</em>
+  <em>Binary classification model using CNN (C-H-W)</em>
 </p>
 
 ## Metrics and evaluation
