@@ -16,7 +16,7 @@ The dataset was augmented using techniques such as horizontal and vertical flips
 
 ## Neural networks
 
-I used transfer learning on the following CNN architectures : ResNet50, ResNet101, EfficiencyNetV2 and ConvNeXt by fine-tuning the classification layers and some of the last feature layers.
+I used transfer learning on the following CNN architectures : ResNet50, ResNet101, EfficientNetV2 and ConvNeXt by fine-tuning the classification layers and some of the last feature layers.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5665943-458b-425c-a288-8dc24b7a0343" alt="Description de l'image">
