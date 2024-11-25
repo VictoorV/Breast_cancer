@@ -40,7 +40,7 @@ Despite these promising results, there is still room for improvement.
 
 ### Balancing and adding data
 
-One approach is to balance the data by adding more positive class images. However, it's important to be cautious about the quality and type of the added images. Indeed, cancer can be benign or malignant, and depending on its type, the cancerous cells will likely appear different. According to the results, it appears that the classifier struggles to detect benign cancers : false negatives may occur when no abnormal mass of cells is present. However, false positives can arise from detecting an abnormal mass that is not cancerous. It is challenging to assess the quality of the data without extensive medical knowledge in this field.
+One approach is to balance the data by adding more positive class images. However, it's important to be cautious about the quality and type of the added images. Indeed, tumor can be benign or malignant, and depending on its type, the cancerous cells will likely appear different. According to the results, it appears that the classifier struggles to detect benign cancers : false negatives may occur when no abnormal mass of cells is present. However, false positives can arise from detecting an abnormal mass that is not cancerous. It is challenging to assess the quality of the data without extensive medical knowledge in this field.
 
 ### Computing power
 
