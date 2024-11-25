@@ -11,7 +11,7 @@ The dataset was augmented using techniques such as horizontal and vertical flips
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a6011be5-fcea-40e6-8a32-dfd724cae72a" alt="Description de l'image">
   <br>
-  <em>4 mammogram images after augmentation with their labels (1 positive, 0 negative)</em>
+  <em>4 mammogram images after augmentation, with their labels (1 positive, 0 negative)</em>
 </p>
 
 ## Neural networks
