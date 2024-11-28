@@ -2,7 +2,7 @@
 
 ## About the dataset
 
-This dataset contains **3,383 mammogram images** focused on breast tumors, annotated in a folder structure (70% negative, 30% positive).
+This dataset contains **3383 mammogram images** focused on breast tumors, annotated in a folder structure (70% negative, 30% positive).
 The dataset was exported from Roboflow, a platform for computer vision projects.
 
 The dataset was augmented using techniques such as horizontal and vertical flips, rotations, and the application of random black rectangles on the images.
