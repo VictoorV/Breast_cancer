@@ -4,7 +4,6 @@
 
 This dataset contains **3,383 mammogram images** focused on breast tumors, annotated in a folder structure (70% negative, 30% positive).
 The dataset was exported from Roboflow, a platform for computer vision projects.
-It is ideal for building and testing Deep-learning models aimed at detecting breast tumors through mammograms.
 
 The dataset was augmented using techniques such as horizontal and vertical flips, rotations, and the application of random black rectangles on the images.
 
